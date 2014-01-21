@@ -21,6 +21,7 @@
 		0042006D188E0D2800A7FEF8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0042004F188E0D2800A7FEF8 /* UIKit.framework */; };
 		00420075188E0D2800A7FEF8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00420073188E0D2800A7FEF8 /* InfoPlist.strings */; };
 		00420077188E0D2800A7FEF8 /* Ex69_socialTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00420076188E0D2800A7FEF8 /* Ex69_socialTestTests.m */; };
+		00420081188E0EB700A7FEF8 /* ball1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00420080188E0EB700A7FEF8 /* ball1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00420072188E0D2800A7FEF8 /* Ex69_socialTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex69_socialTestTests-Info.plist"; sourceTree = "<group>"; };
 		00420074188E0D2800A7FEF8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00420076188E0D2800A7FEF8 /* Ex69_socialTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex69_socialTestTests.m; sourceTree = "<group>"; };
+		00420080188E0EB700A7FEF8 /* ball1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00420051188E0D2800A7FEF8 /* Ex69_socialTest */ = {
 			isa = PBXGroup;
 			children = (
+				00420080188E0EB700A7FEF8 /* ball1.png */,
 				0042005A188E0D2800A7FEF8 /* AppDelegate.h */,
 				0042005B188E0D2800A7FEF8 /* AppDelegate.m */,
 				0042005D188E0D2800A7FEF8 /* Main.storyboard */,
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00420081188E0EB700A7FEF8 /* ball1.png in Resources */,
 				00420064188E0D2800A7FEF8 /* Images.xcassets in Resources */,
 				00420056188E0D2800A7FEF8 /* InfoPlist.strings in Resources */,
 				0042005F188E0D2800A7FEF8 /* Main.storyboard in Resources */,
